@@ -79,7 +79,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       classes: wide
@@ -97,8 +97,6 @@ defaults:
           image_path: /assets/images/bio-photo.jpg
           alt: "placeholder image 2"
           title: "Image 2 title caption"
-
-
   # _pages
   - scope:
       path: "_pages"
