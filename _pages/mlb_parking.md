@@ -1,5 +1,5 @@
 ---
-permalink: /project/mlb-parking/
+permalink: /mlb_parking/
 title: "Real-time On-Street Parking Recommender"
 ---
 
