@@ -10,16 +10,16 @@ foodpicker:
   - image_path: /assets/images/2.png
     alt: "foodPicker"
     title: "foodPicker"
-    excerpt: "Help you buy quality food with computer vision"
+    excerpt: "Help you buy quality food with computer vision. Snap a photo and you are good to go!"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
 deepApp:
   - image_path: /assets/images/deepApp.jpeg
-    alt: "foodPicker"
+    alt: "DeepApp"
     title: "Capstone - DeepApp"
-    excerpt: "Next-App prediction from mobile app usage data"
+    excerpt: "Next-App prediction from mobile app usage data. Beating the State-of-the-Art model (Deep Learning)"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
