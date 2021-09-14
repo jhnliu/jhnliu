@@ -6,9 +6,9 @@ permalink: /project/
 entries_layout: grid
 author_profile: true
 
-feature_row1:
-#   - image_path: /assets/images/2.png
-    # alt: "foodPicker"
+foodpicker:
+  - image_path: /assets/images/2.png
+    alt: "foodPicker"
     title: "foodPicker"
     excerpt: "Help you buy quality food with computer vision"
     url: "/about/"
@@ -16,8 +16,8 @@ feature_row1:
     btn_class: "btn--inverse"
 
 feature_row2:
-#   - image_path: /assets/images/2.png
-    # alt: "Real-time On-Street Parking Recommender"
+  - image_path: /assets/images/2.png
+    alt: "Real-time On-Street Parking Recommender"
     title: "On-Street Parking Recommender"
     excerpt: "Using realtime data to direct drivers to the best parking spot"
     url: "/about/"
@@ -39,5 +39,5 @@ feature_row2:
 #     btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="foodpicker" type="right" %}
 
