@@ -81,8 +81,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: archive
-      classes: wide
+      layout: single
+      classes: 
+        - wide
       author_profile: true
       read_time: true
       comments: true
