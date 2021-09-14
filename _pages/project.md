@@ -15,7 +15,7 @@ foodpicker:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-feature_row2:
+mlbparking:
   - image_path: /assets/images/2.png
     alt: "Real-time On-Street Parking Recommender"
     title: "On-Street Parking Recommender"
@@ -23,13 +23,15 @@ feature_row2:
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-#   - image_path: /assets/images/2.png
-#     alt: "Algo Trading - N Strategy"
-#     title: "Algo Trading - N Strategy"
-#     excerpt: "Simulate the performance of a sotck portfolio"
-#     url: "/about/"
-#     btn_label: "Read More"
-#     btn_class: "btn--inverse"
+
+backtest:
+  - image_path: /assets/images/2.png
+    alt: "Algo Trading - N Strategy"
+    title: "Algo Trading - N Strategy"
+    excerpt: "Simulate the performance of a sotck portfolio"
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 #   - image_path: /assets/images/2.png
 #     alt: "PaperScissorRock"
 #     title: "Paper Scissors Rock!"
@@ -40,4 +42,8 @@ feature_row2:
 ---
 
 {% include feature_row id="foodpicker" type="right" %}
+
+{% include feature_row id="mlbparking" type="right" %}
+
+{% include feature_row id="backtest" type="right" %}
 
