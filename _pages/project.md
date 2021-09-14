@@ -32,18 +32,22 @@ backtest:
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-#   - image_path: /assets/images/2.png
-#     alt: "PaperScissorRock"
-#     title: "Paper Scissors Rock!"
-#     excerpt: "Play paper scissors with AI (Computer Vision)"
-#     url: "/about/"
-#     btn_label: "Read More"
-#     btn_class: "btn--inverse"
+
+paperscissorsrock:
+  - image_path: /assets/images/2.png
+    alt: "PaperScissorRock"
+    title: "Paper Scissors Rock!"
+    excerpt: "Play paper scissors with AI (Computer Vision)"
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="foodpicker" type="right" %}
+{% include feature_row id="foodpicker" type="left" %}
 
 {% include feature_row id="mlbparking" type="right" %}
 
-{% include feature_row id="backtest" type="right" %}
+{% include feature_row id="backtest" type="left" %}
+
+{% include feature_row id="paperscissorsrock" type="right" %}
 
