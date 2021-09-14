@@ -39,5 +39,6 @@ feature_row2:
 #     btn_class: "btn--inverse"
 ---
 
-{% include figure image_path="/assets/images/2.png" alt="placeholder" caption=" caption." %}{% include feature_row id="feature_row2" type="right" %}
+{% include figure image_path="/assets/images/2.png" alt="placeholder" caption=" caption." %}
+{% include feature_row id="feature_row2" type="right" %}
 
