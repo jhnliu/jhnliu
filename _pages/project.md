@@ -6,15 +6,14 @@ permalink: /project/
 entries_layout: grid
 author_profile: true
 
-feature_row1:
+feature_row:
   - image_path: /assets/images/2.png
     alt: "foodPicker"
-    title: "foodPicker\n(Computer Vision)"
+    title: "foodPicker"
     excerpt: "Help you buy quality food with computer vision"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row2:
   - image_path: /assets/images/2.png
     alt: "Real-time On-Street Parking Recommender"
     title: "On-Street Parking Recommender"
@@ -25,21 +24,19 @@ feature_row2:
   - image_path: /assets/images/2.png
     alt: "Algo Trading - N Strategy"
     title: "Algo Trading - N Strategy"
-    excerpt: "Simulate the performance of a sotck portfolio\n"
+    excerpt: "Simulate the performance of a sotck portfolio"
     url: "/about/"
     btn_label: "Read More"
-    btn_class: "btn--inve   rse"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/2.png
     alt: "PaperScissorRock"
     title: "Paper Scissors Rock!"
-    excerpt: "Play paper scissors with AI with camera"
+    excerpt: "Play paper scissors with AI (Computer Vision)"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
 
 
-{% include feature_row1 %}
-
-{% include feature_row2 %}
+{% include feature_row %}
 
