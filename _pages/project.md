@@ -1,30 +1,37 @@
 ---
-title: "Projects"
+title: "Featured Projects"
 layout: category
 permalink: /project/
 # taxonomy: tech
 entries_layout: grid
 author_profile: true
 
-gallery:
-  - url: /assets/images/2.png
-    image_path: /assets/images/2.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/bio-photo.jpg
-    image_path: /assets/images/bio-photo.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-
 feature_row:
   - image_path: /assets/images/2.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/bio-photo.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "foodPicker"
+    title: "foodPicker"
+    excerpt: "Help you buy quality food with computer vision"
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/2.png
+    alt: "Real-time On-Street Parking Recommender"
+    title: "On-Street Parking Recommender"
+    excerpt: "Using realtime data to direct drivers to the best parking spot"
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/2.png
+    alt: "Algo Trading - N Strategy"
+    title: "Algo Trading - N Strategy"
+    excerpt: "Simulate the performance of a sotck portfolio"
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/2.png
+    alt: "PaperScissorRock"
+    title: "Paper Scissors Rock!"
+    excerpt: "Play paper scissors with AI (Computer Vision)"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -36,12 +43,6 @@ layout: categories
 permalink: /categories/
 author_profile: true
 --- -->
-
-Gallery
-
-{% include gallery caption="Projects will be listed here" %}
-
-Feature row
 
 {% include feature_row %}
 
