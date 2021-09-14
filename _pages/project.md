@@ -28,7 +28,7 @@ feature_row2:
     excerpt: "Simulate the performance of a sotck portfolio\n"
     url: "/about/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--inve   rse"
   - image_path: /assets/images/2.png
     alt: "PaperScissorRock"
     title: "Paper Scissors Rock!"
