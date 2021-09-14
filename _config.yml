@@ -69,6 +69,8 @@ author:
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "LinkedIn"
     - label: "GitHub"
