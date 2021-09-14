@@ -59,20 +59,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A ordinary guy with an ordinary life."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
-    - label: "LinkedIn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jhnliu/"
 
 footer:
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
-    - label: "LinkedIn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jhnliu/"
