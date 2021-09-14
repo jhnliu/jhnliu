@@ -32,6 +32,12 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
+  
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -60,7 +66,7 @@ author:
   bio    : "A ordinary guy with an ordinary life."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,7 +80,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jhnliu/"
-
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+      
 defaults:
   # _posts
   - scope:
@@ -95,6 +104,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true      
 
 category_archive:
   type: liquid
