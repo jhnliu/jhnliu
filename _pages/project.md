@@ -37,12 +37,6 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<!-- ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
---- -->
 
 {% include feature_row %}
 
