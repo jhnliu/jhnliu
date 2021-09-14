@@ -1,7 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /foodpicker/
+title: "foodPicker"
 ---
 
-"Life is like a box of chocolates"
-- Forrest Gump (1994)
+foodPicker

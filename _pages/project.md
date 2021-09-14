@@ -7,7 +7,7 @@ entries_layout: grid
 author_profile: true
 
 foodpicker:
-  - image_path: /assets/images/2.png
+  - image_path: /assets/images/mlb_parking.png
     alt: "foodPicker"
     title: "foodPicker"
     excerpt: "Help you buy quality food with computer vision. Snap a photo and you are good to go!"
@@ -36,7 +36,7 @@ mlbparking:
 backtest:
   - image_path: /assets/images/backtest.png
     alt: "Algo Trading - N Strategy"
-    title: "Algo Trading - N Strategy"
+    title: "Algotrader - N Strategy"
     excerpt: "Simulate the performance of a sotck portfolio"
     url: "/about/"
     btn_label: "Read More"

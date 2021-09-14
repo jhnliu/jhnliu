@@ -1,7 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /algotrader/
+title: "Algotrader"
 ---
 
-"Life is like a box of chocolates"
-- Forrest Gump (1994)
+Algotrader

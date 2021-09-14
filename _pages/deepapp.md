@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /deepapp/
+title: "Capstone - DeepApp"
 ---
 
 "Life is like a box of chocolates"
