@@ -11,7 +11,7 @@ foodpicker:
     alt: "foodPicker"
     title: "foodPicker"
     excerpt: "Help you buy quality food with computer vision. Snap a photo and you are good to go!"
-    url: "/about/"
+    url: "/foodpicker/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -20,7 +20,7 @@ deepApp:
     alt: "DeepApp"
     title: "Capstone - DeepApp"
     excerpt: "Next-App prediction from mobile app usage data. Beating the State-of-the-Art model (Deep Learning)"
-    url: "/about/"
+    url: "/deepapp/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -33,21 +33,21 @@ mlbparking:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-backtest:
+algotrader:
   - image_path: /assets/images/backtest.png
     alt: "Algo Trading - N Strategy"
     title: "Algotrader - N Strategy"
     excerpt: "Simulate the performance of a sotck portfolio"
-    url: "/about/"
+    url: "/algotrader/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-paperscissorsrock:
+psr:
   - image_path: /assets/images/paperscissorsrock.png
     alt: "PaperScissorRock"
     title: "Paper Scissors Rock!"
     excerpt: "Play paper scissors with AI (Computer Vision)"
-    url: "/about/"
+    url: "/psr/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
@@ -58,7 +58,7 @@ paperscissorsrock:
 
 {% include feature_row id="mlbparking" type="left" %}
 
-{% include feature_row id="backtest" type="left" %}
+{% include feature_row id="algotrader" type="left" %}
 
-{% include feature_row id="paperscissorsrock" type="left" %}
+{% include feature_row id="psr" type="left" %}
 

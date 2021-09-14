@@ -56,11 +56,11 @@ plugins:
 
 author:
   name   : "John Liu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/propic.jpg"
   bio    : "A ordinary guy with an ordinary life."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -69,7 +69,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -94,6 +94,7 @@ defaults:
       type: pages
     values:
       layout: single
+      read_time: true
       author_profile: true
 
 category_archive:
