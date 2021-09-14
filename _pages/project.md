@@ -29,7 +29,7 @@ mlbparking:
     alt: "Real-time On-Street Parking Recommender"
     title: "On-Street Parking Recommender"
     excerpt: "Using realtime data to direct drivers to the best parking spot"
-    url: "/project/mlb-parking/"
+    url: "/project/mlb-parking"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
