@@ -9,7 +9,7 @@ author_profile: true
 feature_row:
   - image_path: /assets/images/2.png
     alt: "foodPicker"
-    title: "foodPicker"
+    title: "foodPicker\n"
     excerpt: "Help you buy quality food with computer vision"
     url: "/about/"
     btn_label: "Read More"
