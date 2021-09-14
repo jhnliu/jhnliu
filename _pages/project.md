@@ -15,6 +15,19 @@ gallery:
     image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+
+feature_row:
+  - image_path: /assets/images/2.png
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/bio-photo.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 <!-- ---
@@ -23,3 +36,12 @@ layout: categories
 permalink: /categories/
 author_profile: true
 --- -->
+
+Gallery
+
+{% include gallery caption="Projects will be listed here" %}
+
+Feature row
+
+{% include feature_row %}
+
