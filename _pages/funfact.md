@@ -16,7 +16,7 @@ excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A pic
 
 gallery:
   - url: /assets/images/hpair.jpg
-    image_path: /assets/images/hpair
+    image_path: /assets/images/hpair.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/hpair_boston.jpg
