@@ -94,6 +94,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       read_time: true
       author_profile: true
 
