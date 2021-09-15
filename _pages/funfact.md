@@ -15,11 +15,13 @@ excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A pic
 
 
 gallery:
-  - url: "https://hpair.org/"
+  # - url: "https://hpair.org/"
+  - url: /assets/images/hpair_boston.jpg
     image_path: /assets/images/hpair_boston.jpg
     alt: "HPAIR 2016"
     title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
-  - url: "https://hpair.org/past-conferences"
+  # - url: "https://hpair.org/past-conferences"
+  - url: /assets/images/hpair.jpg
     image_path: /assets/images/hpair.jpg
     alt: "HPAIR 2016 Asia Conference"
     title: "Following HPAIR 2016 (picture on the left, I was the Operations Director of the HPAIR 2016 Asia Conference. Representing The Chinese University of Hong Kong (CUHK), my teammates and I held the biggest student conference in CUHK campus."
@@ -27,7 +29,8 @@ gallery:
     image_path: /assets/images/asiangames.jpg
     alt: "Asian Games 2014"
     title: "In 2014, I represented Hong Kong Men's Water Polo Team to participate the Incheon Asian Games 2014. The picture was taken before the opening ceremony. Walking on the stage and seeing 30,000 audience cheering for you is indescribably thrilling"
-  - url: "http://openwaterasia.com/events/swimming/clean-half/"
+  # - url: "http://openwaterasia.com/events/swimming/clean-half/"
+  - url: /assets/images/clean_half.JPG
     image_path: /assets/images/clean_half.JPG
     alt: "Clean Half"
     title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
