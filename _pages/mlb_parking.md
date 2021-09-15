@@ -3,9 +3,9 @@ permalink: /mlb_parking/
 title: "Real-time On-Street Parking Recommendation Engine"
 ---
 
-> Winner of Sustainable Award <cite><a href="https://codingfestsydney.github.io/">Coding Fest 2021 @USYD</a></cite>
+> Winner of Sustainable Award <cite><a href="https://codingfestsydney.github.io/" target="_blank">Coding Fest 2021 @USYD</a></cite>
 
-<a href="https://github.com/jhnliu/melbourne_live_parking/blob/master/Coding-Fest-2021_Poster-Parking-Prediction_10052021.pdf">Poster available</a?>
+<a href="https://github.com/jhnliu/melbourne_live_parking/blob/master/Coding-Fest-2021_Poster-Parking-Prediction_10052021.pdf" target="_blank">Poster available</a>
 
 ## Introduction 
 WHAT IF you know in advance where you can park off-street near your destination?<br>

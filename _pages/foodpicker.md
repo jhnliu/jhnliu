@@ -2,7 +2,6 @@
 permalink: /foodpicker/
 title: "foodPicker APP"
 ---
-{% include figure image_path="/assets/images/freshfood.jpg" alt="freshfood picture" caption="Credit: @gettyimage/namenko." %}
 
 ## Story and problem
 Have you ever been confused when you want to buy fresh seafood?<br>
@@ -24,8 +23,9 @@ Of coz, we have a bigger mission!
 ## Vision and mission
 Knowledge about food, no matter it is scientific fact or traditional knowledge, is passed from generation to generation, from West to East. We, foodpicker, want to preserve ancient wisdom and at the same time broadcast them to everyone.
 
-My drafted pitch deck is available <a href="https://github.com/jhnliu/fp/blob/master/fp_pitchdeck.pdf">here</a>. Feel free to reach out to me if you would like to work together!
+My drafted pitch deck is available <a href="https://github.com/jhnliu/fp/blob/master/fp_pitchdeck.pdf" target="_blank">here</a>. Feel free to reach out to me if you would like to work together!
 
+{% include figure image_path="/assets/images/freshfood.jpg" alt="freshfood picture" caption="Credit: @gettyimage/namenko." %}
 
 
 ## Intro

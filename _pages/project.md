@@ -25,7 +25,7 @@ deepApp:
     btn_class: "btn--inverse"
 
 mlbparking:
-  - image_path: /assets/images/mlb_parking.png
+  - image_path: /assets/images/parking_sign.jpg
     alt: "Real-time On-Street Parking Recommender"
     title: "On-Street Parking Recommender"
     excerpt: "Using realtime data to direct drivers to the best parking spot (Award winning)"
