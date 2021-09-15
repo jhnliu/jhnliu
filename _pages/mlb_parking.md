@@ -5,6 +5,8 @@ title: "Real-time On-Street Parking Recommendation Engine"
 
 > Winner of Sustainable Award <cite><a href="https://codingfestsydney.github.io/">Coding Fest 2021 @USYD</a></cite>
 
+<a href="https://github.com/jhnliu/melbourne_live_parking/blob/master/Coding-Fest-2021_Poster-Parking-Prediction_10052021.pdf">Poster available</a?>
+
 ## Introduction 
 WHAT IF you know in advance where you can park off-street near your destination?<br>
 WHAT IF we guarantee you an off-street parking only 3 minutes walk from your destination?<br>
