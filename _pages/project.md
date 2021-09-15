@@ -7,10 +7,10 @@ entries_layout: grid
 author_profile: true
 
 foodpicker:
-  - image_path: /assets/images/mlb_parking.png
+  - image_path: /assets/images/foodpicker.jpg
     alt: "foodPicker"
-    title: "foodPicker"
-    excerpt: "Help you buy quality food with computer vision. Snap a photo and you are good to go!"
+    title: "foodPicker APP"
+    excerpt: "Use image recognition to Bring Home The Best Food"
     url: "/foodpicker/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
