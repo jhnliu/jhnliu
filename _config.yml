@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: myPage | John
+title: JHNLIU
 email: jhnl.biz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a collection of projects I have worked on and ideas that I will explore 
@@ -58,12 +58,12 @@ plugins:
 author:
   name   : "John Liu"
   avatar : "/assets/images/propic.jpg"
-  bio    : "Strategic thinking | Data Analytics | Think out of the box"
+  bio    : "Strategic thinking | Data Analytics | Think out of the box\n Hello"
   location: "Sydney, AU"
-  
+
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
