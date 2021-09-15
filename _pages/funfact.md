@@ -3,6 +3,7 @@ title: "Memorable Moments"
 permalink: /funfact/
 layout: splash
 author_profile: true
+read_time: false
 
 header:
   overlay_color: "#000"
