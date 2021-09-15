@@ -3,7 +3,7 @@ permalink: /mlb_parking/
 title: "Real-time On-Street Parking Recommendation Engine"
 ---
 
-# Introduction 
+## Introduction 
 
 WHAT IF you know in advance where you can park off-street near your destination?<br>
 WHAT IF we guarantee you an off-street parking only 3 minutes walk from your destination?<br>
@@ -13,14 +13,9 @@ With real-time parking sensors data released by the City of Melbourne (<a href="
 
 {% include figure image_path="/assets/images/mlb_parking.png" alt="User Interface" caption="Result shown to users after entering the destination." %}
 
-# Future Work
-- Continue to improve UI
-- Add car park commercial car park information
-- Online allocation to prevent multiple drivers competing the same parking bay
-
 
 <p align="left">
-  <img src="UI/UI_1.png" width="500" title="hover text">
+  <img src="/assets/images/mlb_parking.png" width="500" title="hover text">
 </p>
 
 
