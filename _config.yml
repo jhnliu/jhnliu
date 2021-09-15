@@ -67,8 +67,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jhnliu/"
 
-teaser: /assets/images/yosemite.JPG
-
 footer:
   links:
     - label: "LinkedIn"
@@ -91,6 +89,8 @@ defaults:
       comments: true
       share: true
       related: true
+      teaser: /assets/images/yosemite.JPG
+
   # _pages
   - scope:
       path: "_pages"
@@ -100,6 +100,8 @@ defaults:
       classes: wide
       read_time: true
       author_profile: true
+      teaser: /assets/images/yosemite.JPG
+
 
 category_archive:
   type: liquid

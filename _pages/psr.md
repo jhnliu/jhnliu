@@ -1,6 +1,7 @@
 ---
 permalink: /psr/
 title: "Paper Scissors Rock with Computer Vision and Pygame"
+teaser: /assets/images/psr.png
 ---
 
 ## Introduction
