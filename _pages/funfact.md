@@ -11,34 +11,39 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Anna L."
-excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A pickture paints a thousand words. Click the photos for more info"
+excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A picture paints a thousand words. Hover the photos for more info"
 
 
 gallery:
-  - url: /assets/images/hpair.jpg
-    image_path: /assets/images/hpair.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/hpair_boston.jpg
+  - url: "https://hpair.org/"
     image_path: /assets/images/hpair_boston.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "HPAIR 2016"
+    title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
+  - url: "https://hpair.org/past-conferences"
+    image_path: /assets/images/hpair.jpg
+    alt: "HPAIR 2016 Asia Conference"
+    title: "Following HPAIR 2016 (picture on the left, I was the Operations Director of the HPAIR 2016 Asia Conference. Representing The Chinese University of Hong Kong (CUHK), my teammates and I held the biggest student conference in CUHK campus."
   - url: /assets/images/asiangames.jpg
     image_path: /assets/images/asiangames.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Asian Games 2014"
+    title: "In 2014, I represented Hong Kong Men's Water Polo Team to participate the Incheon Asian Games 2014. The picture was taken before the opening ceremony. Walking on the stage and seeing 30,000 audience cheering for you is indescribably thrilling"
+  - url: "http://openwaterasia.com/events/swimming/clean-half/"
+    image_path: /assets/images/clean_half.JPG
+    alt: "Clean Half"
+    title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
   - url: /assets/images/grad_trip2017.jpg
     image_path: /assets/images/grad_trip2017.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Grad Trip 2017"
+    title: "In 2017, backpacked from Hong Kong to the United Kingtom. Taking various transportation, my friend and I completed the "Mainland China | Tran-Siberian Railway | Europe" journey in 45 days."
   - url: /assets/images/skydive.jpg
     image_path: /assets/images/skydive.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Skydive"
+    title: "My first skydiving experience in Wollongong in 2021"
   - url: /assets/images/yosemite.JPG
-    image_path: /assets/images/yosemite.JPG
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    image_path: /assets/images/crossrail.JPG
+    alt: "MTR Crossrail Christmas Jumper Day"
+    title: "Happy Christmas Jumper Day during my secondment in London"
+
 ---
 
 {% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." class="full" layout="third" %}

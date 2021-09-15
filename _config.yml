@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "John Liu"
   avatar : "/assets/images/propic.jpg"
-  bio    : "Strategic thinking | Data Analytics | Think out of the box\n Hello"
+  bio    : "Just a humble and ambitious guy who loves sports and food | Strategic thinking | Data Analytics | Think out of the box"
   location: "Sydney, AU"
 
   links:
-    - label: "LinkedIn"
+    - label: " LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
