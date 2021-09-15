@@ -27,18 +27,18 @@ gallery:
     image_path: /assets/images/clean_half.jpg
     alt: "Clean Half"
     title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
-  - url: /assets/images/skydive.jpg
-    image_path: /assets/images/skydive.jpg
-    alt: "Skydive"
-    title: "My first skydiving experience in Wollongong in 2021"
-  # - url: /assets/images/crossrail.jpg
-  #   image_path: /assets/images/crossrail.jpg
-  #   alt: "MTR Crossrail Christmas Jumper Day"
-  #   title: "Happy Christmas Jumper Day during my secondment in London"
-  # - url: /assets/images/hpair_boston.jpg
-  #   image_path: /assets/images/hpair_boston.jpg
-  #   alt: "HPAIR 2016"
-  #   title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
+  - url: /assets/images/crossrail.jpg
+    image_path: /assets/images/crossrail.jpg
+    alt: "MTR Crossrail Christmas Jumper Day"
+    title: "Happy Christmas Jumper Day during my secondment in London"
+  - url: /assets/images/hpair_boston.jpg
+    image_path: /assets/images/hpair_boston.jpg
+    alt: "HPAIR 2016"
+    title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
+  # - url: /assets/images/skydive.jpg
+  #   image_path: /assets/images/skydive.jpg
+  #   alt: "Skydive"
+  #   title: "My first skydiving experience in Wollongong in 2021"
   # - url: /assets/images/grad_trip2017.jpg
   #   image_path: /assets/images/grad_trip2017.jpg
   #   alt: "Grad Trip 2017"
