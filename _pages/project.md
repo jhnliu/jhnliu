@@ -43,7 +43,7 @@ algotrader:
     btn_class: "btn--inverse"
 
 psr:
-  - image_path: /assets/images/paperscissorsrock.png
+  - image_path: /assets/images/psr.png
     alt: "PaperScissorRock"
     title: "Paper Scissors Rock!"
     excerpt: "Play paper scissors with AI (Computer Vision)"
