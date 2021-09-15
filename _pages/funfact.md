@@ -35,25 +35,20 @@ gallery:
     alt: "Grad Trip 2017"
     title: "In 2017, backpacked from Hong Kong to the United Kingtom. Taking various transportation, my friend and I completed the "Mainland China-Tran-Siberian-Railway-Europe" journey in 45 days."
 
-  - url: /assets/images/skydive.jpg
-    image_path: /assets/images/skydive.jpg
-    alt: "Skydive"
-    title: "My first skydiving experience in Wollongong in 2021"
+  # - url: /assets/images/skydive.jpg
+  #   image_path: /assets/images/skydive.jpg
+  #   alt: "Skydive"
+  #   title: "My first skydiving experience in Wollongong in 2021"
 
-  - url: /assets/images/crossrail.JPG
-    image_path: /assets/images/crossrail.JPG
-    alt: "MTR Crossrail Christmas Jumper Day"
-    title: "Happy Christmas Jumper Day during my secondment in London"
+  # - url: /assets/images/crossrail.JPG
+  #   image_path: /assets/images/crossrail.JPG
+  #   alt: "MTR Crossrail Christmas Jumper Day"
+  #   title: "Happy Christmas Jumper Day during my secondment in London"
 
-  - url: /assets/images/hpair_boston.jpg
-    image_path: /assets/images/hpair_boston.jpg
-    alt: "HPAIR 2016"
-    title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
-
-  # # - url: "https://hpair.org/past-conferences"
-  # - url: "https://hpair.org/"
-  # - url: "http://openwaterasia.com/events/swimming/clean-half/"
-
+  # - url: /assets/images/hpair_boston.jpg
+  #   image_path: /assets/images/hpair_boston.jpg
+  #   alt: "HPAIR 2016"
+  #   title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
 ---
 
-{% include gallery id="gallery" class="full" layout="half" %}
+{% include gallery id="gallery" class="full" layout="third" %}
