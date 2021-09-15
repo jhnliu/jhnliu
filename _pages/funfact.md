@@ -41,4 +41,4 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." class="full" layout="half" %}
+{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." class="full" layout="third" %}
