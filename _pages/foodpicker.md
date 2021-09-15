@@ -2,6 +2,7 @@
 permalink: /foodpicker/
 title: "foodPicker APP"
 ---
+{% include figure image_path="/assets/images/freshfood.jpg" alt="freshfood picture" caption="Credit: @gettyimage/namenko." %}
 
 ## Story and problem
 Have you ever been confused when you want to buy fresh seafood?<br>
@@ -17,14 +18,15 @@ Snap and Search. You are only one click from the greatest food picking tips. Wit
 <br>
 Of coz, we have a bigger mission!
 
+## Demo Video
+{% include video id="9eqMnXq_IDg" provider="youtube" %}
+
 ## Vision and mission
 Knowledge about food, no matter it is scientific fact or traditional knowledge, is passed from generation to generation, from West to East. We, foodpicker, want to preserve ancient wisdom and at the same time broadcast them to everyone.
 
-{% include figure image_path="/assets/images/freshfood.jpg" alt="freshfood picture" caption="Credit: @gettyimage/namenko." %}
 
-Demo Video
 
-{% include video id="9eqMnXq_IDg" provider="youtube" %}
+
 
 ## Intro
 大家好，我們是foodpicker。我們希望人工智能技術，令你成為一個對各種食物都有了解的食材專家，等你買送的時候得心應手。究竟我們是如何做到的了？

@@ -7,7 +7,7 @@ entries_layout: grid
 author_profile: true
 
 foodpicker:
-  - image_path: /assets/images/foodpicker.jpg
+  - image_path: /assets/images/freshfood.jpg
     alt: "foodPicker"
     title: "foodPicker APP"
     excerpt: "Use image recognition to Bring Home The Best Food"
