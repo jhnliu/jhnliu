@@ -15,10 +15,10 @@ excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A pic
 
 
 gallery:
-  # - url: /assets/images/hpair.jpg
-  #   image_path: /assets/images/hpair.jpg
-  #   alt: "HPAIR 2016 Asia Conference"
-  #   title: "In 2016 summer, I was the Operations Director of the Harvard Project for Asian and Internation Relation (HPAIR) 2016 Asia Conference. Representing The Chinese University of Hong Kong (CUHK), my teammates and I held the biggest student conference in CUHK campus."
+  - url: /assets/images/hpair.png
+    image_path: /assets/images/hpair.png
+    alt: "HPAIR 2016 Asia Conference"
+    title: "In 2016 summer, I was the Operations Director of the Harvard Project for Asian and Internation Relation (HPAIR) 2016 Asia Conference. Representing The Chinese University of Hong Kong (CUHK), my teammates and I held the biggest student conference in CUHK campus."
 
   - url: /assets/images/asiangames.jpg
     image_path: /assets/images/asiangames.jpg
