@@ -28,7 +28,7 @@ mlbparking:
   - image_path: /assets/images/mlb_parking.png
     alt: "Real-time On-Street Parking Recommender"
     title: "On-Street Parking Recommender"
-    excerpt: "Using realtime data to direct drivers to the best parking spot"
+    excerpt: "Using realtime data to direct drivers to the best parking spot (Award winning)"
     url: "/mlb_parking/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
