@@ -1,5 +1,5 @@
 ---
-title: "Fun Facts About John"
+title: "Memorable Moments"
 permalink: /funfact/
 layout: splash
 author_profile: true
@@ -45,4 +45,4 @@ gallery:
   #   title: "In Feburary 2016, I attended the Harvard Project for Asian and Internation Relation (HPAIR) Conference at Havard University. As a delegate in the Corporate Leadership stream, I had the great opportunity to learn from industry leaders about management and exchange ideas with other delegates around the world."
 ---
 
-{% include gallery id="gallery" class="full" layout="" %}
+{% include gallery id="gallery" class="full" layout="third" %}
