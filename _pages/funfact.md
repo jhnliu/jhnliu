@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/yosemite.JPG
+  overlay_image: /assets/images/yosemite.jpg
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Anna L."
@@ -25,23 +25,23 @@ gallery:
     alt: "Asian Games 2014"
     title: "In 2014, I represented Hong Kong Men's Water Polo Team to participate the Incheon Asian Games 2014. The picture was taken before the opening ceremony. Walking on the stage and seeing 30,000 audience cheering for you is indescribably thrilling"
 
-  - url: /assets/images/clean_half.JPG
-    image_path: /assets/images/clean_half.JPG
-    alt: "Clean Half"
-    title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
+  # - url: /assets/images/clean_half.jpg
+  #   image_path: /assets/images/clean_half.jpg
+  #   alt: "Clean Half"
+  #   title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
 
-  # - url: /assets/images/grad_trip2017.jpg
-  #   image_path: /assets/images/grad_trip2017.jpg
-  #   alt: "Grad Trip 2017"
-  #   title: "In 2017, backpacked from Hong Kong to the United Kingtom. Taking various transportation, my friend and I completed the "Mainland China-Tran-Siberian-Railway-Europe" journey in 45 days."
+  - url: /assets/images/grad_trip2017.jpg
+    image_path: /assets/images/grad_trip2017.jpg
+    alt: "Grad Trip 2017"
+    title: "In 2017, backpacked from Hong Kong to the United Kingtom. Taking various transportation, my friend and I completed the "Mainland China-Tran-Siberian-Railway-Europe" journey in 45 days."
 
   # - url: /assets/images/skydive.jpg
   #   image_path: /assets/images/skydive.jpg
   #   alt: "Skydive"
   #   title: "My first skydiving experience in Wollongong in 2021"
 
-  # - url: /assets/images/crossrail.JPG
-  #   image_path: /assets/images/crossrail.JPG
+  # - url: /assets/images/crossrail.jpg
+  #   image_path: /assets/images/crossrail.jpg
   #   alt: "MTR Crossrail Christmas Jumper Day"
   #   title: "Happy Christmas Jumper Day during my secondment in London"
 
