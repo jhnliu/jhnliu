@@ -35,7 +35,7 @@ gallery:
     image_path: /assets/images/skydive.jpg
     alt: "Skydive"
     title: "My first skydiving experience in Wollongong in 2021"
-  - url: /assets/images/yosemite.JPG
+  - url: /assets/images/crossrail.JPG
     image_path: /assets/images/crossrail.JPG
     alt: "MTR Crossrail Christmas Jumper Day"
     title: "Happy Christmas Jumper Day during my secondment in London"
