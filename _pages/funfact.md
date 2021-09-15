@@ -38,7 +38,7 @@ gallery:
   - url: /assets/images/grad_trip2017.jpg
     image_path: /assets/images/grad_trip2017.jpg
     alt: "Grad Trip 2017"
-    title: "In 2017, backpacked from Hong Kong to the United Kingtom. Taking various transportation, my friend and I completed the 'Mainland China-Tran-Siberian-Railway-Europe' journey in 45 days."
+    title: "In 2017, backpacked from Hong Kong to the United Kingtom. Taking various transportation, my friend and I completed the Mainland China-Tran-Siberian-Railway-Europe journey in 45 days."
   - url: /assets/images/skydive.jpg
     image_path: /assets/images/skydive.jpg
     alt: "Skydive"
