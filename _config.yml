@@ -58,10 +58,12 @@ plugins:
 author:
   name   : "John Liu"
   avatar : "/assets/images/propic.jpg"
-  bio    : "A ordinary guy with an ordinary life."
+  bio    : "Strategic thinking | Data Analytics | Think out of the box"
+  location: "Sydney, AU"
+  
   links:
     - label: "LinkedIn"
-      icon: "fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,7 +72,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jhnl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

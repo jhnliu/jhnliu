@@ -2,6 +2,7 @@
 permalink: /foodpicker/
 title: "foodPicker APP"
 ---
+{% include figure image_path="/assets/images/freshfood.jpg" alt="freshfood picture" caption="Credit: @gettyimage/namenko." %}
 
 ## Story and problem
 Have you ever been confused when you want to buy fresh seafood?<br>
@@ -25,7 +26,6 @@ Knowledge about food, no matter it is scientific fact or traditional knowledge, 
 
 My drafted pitch deck is available <a href="https://github.com/jhnliu/fp/blob/master/fp_pitchdeck.pdf" target="_blank">here</a>. Feel free to reach out to me if you would like to work together!
 
-{% include figure image_path="/assets/images/freshfood.jpg" alt="freshfood picture" caption="Credit: @gettyimage/namenko." %}
 
 
 ## Intro
