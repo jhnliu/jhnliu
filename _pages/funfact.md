@@ -23,10 +23,10 @@ gallery:
     image_path: /assets/images/asiangames.jpg
     alt: "Asian Games 2014"
     title: "In 2014, I represented Hong Kong Men's Water Polo Team to participate the Incheon Asian Games 2014. The picture was taken before the opening ceremony. Walking on the stage and seeing 30,000 audience cheering for you is indescribably thrilling."
-  # - url: /assets/images/clean_half.jpg
-  #   image_path: /assets/images/clean_half.jpg
-  #   alt: "Clean Half"
-  #   title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
+  - url: /assets/images/clean_half.jpg
+    image_path: /assets/images/clean_half.jpg
+    alt: "Clean Half"
+    title: "When I was in Hong Kong, I participated in the Clean Half, which is a 15km swimming relay from Stanley Beach to Repulase Bay. We aimed to raise the awareness of the public about ocean protection."
   # - url: /assets/images/grad_trip2017.jpg
   #   image_path: /assets/images/grad_trip2017.jpg
   #   alt: "Grad Trip 2017"
