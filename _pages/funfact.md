@@ -12,7 +12,7 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Anna L."
-excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A picture paints a thousand words. Hover over the photos for description"
+excerpt: "Live my life to the max. People. Leadership. Sports. Food. Wine. A picture paints a thousand words. Click on photos for description"
 
 
 gallery:
