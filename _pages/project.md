@@ -34,7 +34,7 @@ psr:
     btn_class: "btn--inverse"
 
 aviation_sustainable:
-  - image_path: /assets/images/unsw_ds/unsw_ds_teaser.jpg
+  - image_path: /assets/images/unsw_ds/unsw_ds_photo.jpg
     alt: "UNSW Data Science Competition"
     title: "Aviation Data analysis"
     excerpt: "UNSW Aviation Data Science Competition"

@@ -13,15 +13,16 @@ To better understanding of how international air travel play a role in promoting
 Our team approached the problem from 3 perspectives: Economy, Covid Recovery and Environment. In this article, I will share my findings and work in the Environment perspective.
 <br>
 
-## Step 1 - Define the problem and objective
+# Process
+### Step 1 - Define the problem and objective
 To evaluate the carbon footprint of the routes, we collect the carbon emission per traveller from <a href="https://co2.myclimate.org/en/flight_calculators/new">myclimate flight calculators</a> and normalised it by the route distance to get a carbon emission score. The lower the score, the more environmental friendly the route is. Here, we only consider a one-way flight to keep things simple.
 
 {% include figure image_path="/assets/images/unsw_ds/formula.jpg" alt="carbon emission formula" caption="Slide created by Zoe Lo" %}
 
-## Step 2 - Prepare the data (Webscraping, data wrangling)
+### Step 2 - Prepare the data (Webscraping, data wrangling)
 Having the objective, it is time to collect the data. Our given dataset contains all origin and destination that we had to consider. To collect the carbon emission data, we scrape it from myClimate using <a href="https://www.selenium.dev/">Selenium</a> and stored the corresponding O/D and emission in a dataframe, using pandas. Next, we performed an inner join on the origin column to get the complete dataset with necessary information.
 
-## Step 3 - Find insights and show with visualizations
+### Step 3 - Find insights and show with visualizations
 
 Using Tableau, we managed to create several visualizations and derive insights from them. We matched our airport code to the coordinates on the world map to visualize the information in a geographical context.
 
@@ -37,7 +38,8 @@ Among all routes in the dataset, routes originated from several airports are gen
 The myclimate Flight Emission Calculator 
 https://www.myclimate.org/fileadmin/user_upload/myclimate_-_home/01_Information/01_About_myclimate/09_Calculation_principles/Documents/myclimate-flight-calculator-documentation_EN.pdf
 
-
+## Prize Presentation
+{% include figure image_path="/assets/images/unsw_ds/unsw_ds_photo.jpg" alt="carbon emission insight" caption="" %}
 
 
 
