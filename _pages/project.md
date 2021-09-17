@@ -33,7 +33,7 @@ psr:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-aviation_sustainable:
+unsw_ds:
   - image_path: /assets/images/unsw_ds/unsw_ds_photo.jpg
     alt: "UNSW Data Science Competition"
     title: "Aviation Data analysis"
@@ -66,11 +66,14 @@ algotrader:
 
 {% include feature_row id="foodpicker" type="left" %}
 
-{% include feature_row id="deepApp" type="left" %}
-
 {% include feature_row id="mlbparking" type="left" %}
+
+{% include feature_row id="psr" type="left" %}
+
+{% include feature_row id="unsw_ds" type="left" %}
+
+{% include feature_row id="deepApp" type="left" %}
 
 {% include feature_row id="algotrader" type="left" %}
 
-{% include feature_row id="psr" type="left" %}
 
