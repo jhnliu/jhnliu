@@ -44,6 +44,14 @@ gallery:
     image_path: /assets/images/skydive.jpg
     alt: "Skydive"
     title: "My first skydiving experience in Wollongong in 2021"
+  - url: /assets/images/cuhk_wp.jpg
+    image_path: /assets/images/cuhk_wp.jpg
+    alt: "cuhk_wp"
+    title: "CUHK Water Polo Team winning championships"
+  - url: /assets/images/hpair_aconf.jpg
+    image_path: /assets/images/hpair_aconf.jpg
+    alt: "hpair"
+    title: "/"
 
 ---
 
