@@ -1,7 +1,7 @@
 main:
   - title: "Projects"
     url: /project/
-  - title: "Fun Facts"
+  - title: "Moments"
     url: /funfact/
   - title: "Resume"
     url: /resume
