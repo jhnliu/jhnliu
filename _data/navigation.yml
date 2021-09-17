@@ -3,7 +3,7 @@ main:
     url: /project/
   - title: "Moments"
     url: /funfact/
-  - title: "Résumé"
-    url: /resume
+  # - title: "Résumé"
+  #   url: /resume
   - title: "About"
     url: /about/
