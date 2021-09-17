@@ -1,11 +1,11 @@
 ---
 permalink: /unsw_ds/
-title: "Sustainable International Air Routes to Australia "
+title: "Data Science Competition on "Sustainable International Air Routes to Australia "
 ---
 
 > Best Insight Award & Best Visualization Award - UNSW Data Science Competition
 
-## Data Science Competition on "Sustainable International Air Routes to Australia" 
+## Introduction
 Tourism Australia and UNSW School of Aviation, in partnership with Cirium, is organising a Data Science Competition on "Sustainable International Air Routes to Australia" (<a href="https://www.aviation.unsw.edu.au/data-science-competition">link</a>).<br>
 <br>
 To better understanding of how international air travel play a role in promoting a more sustainable tourism destinations in air travel dependent tourism regions, our team used the given data to identify international air routes to Australia that are likely most sustainable in the post-COVID travel environment. Cirium’s select origin-destination data includes seat capacity, traffic, aircraft type and future schedules.We also made use of multiple external datasets from Australian Bureau of Statistics, flight manager, myclimte, etc.<br>
