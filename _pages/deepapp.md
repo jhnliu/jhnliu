@@ -14,7 +14,7 @@ In this project, we adapt from DeepApp and propose several novel enhancements to
 {% include figure image_path="/assets/images/DeepApp2021_model.png" alt="DeepApp 2.0 Architecture" caption="Model architecture after adding novel changes" %}
 
 ## Original architecture
-{% include figure image_path="/assets/images/original_deepapp_model.jpg" alt="original DeepApp architecture" caption="Original DeepApp model architecture in (Xia, 2020)" width="200", height="80" %}
+{% include figure image_path="/assets/images/original_deepapp_model.jpg" alt="original DeepApp architecture" caption="Original DeepApp model architecture in (Xia, 2020)" %}
 
 ## Credits
 Supervisors:
