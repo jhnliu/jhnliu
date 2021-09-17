@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-{% include figure image_path="assets/images/forrest_gump.jpeg" alt="Forrest Gump Quote pic" caption="Credit:QuoteDaries"}
+{% include figure image_path="/assets/images/forrest_gump.jpeg" alt="Forrest Gump Quote pic" caption="Credit:QuoteDaries"}
+
 
 <!-- > Life is like a box of chocolates.<cite>Forrest Gump (1994)</cite> -->
 

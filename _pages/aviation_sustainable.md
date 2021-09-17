@@ -35,7 +35,7 @@ From the visualisations, we observed that carbon-friendly flights are not limite
 Among all routes in the dataset, routes originated from several airports are generally more carbon friendly. For example, all flights from Kuala Lumpur International Airport (graph on the left) are relatively carbon friendly. On the other end, routes from Honolulu airport (graph on the right) are relatively less carbon friendly. This echoes the airport infrastructure factor in the carbon emission formula from myclimate. Therefore, we suggest airline company to consider not only distance but also airport operations when they look at the carbon emission of a route.
 
 ## Reference
-The myclimate Flight Emission Calculator 
+The myclimate Flight Emission Calculator, 
 https://www.myclimate.org/fileadmin/user_upload/myclimate_-_home/01_Information/01_About_myclimate/09_Calculation_principles/Documents/myclimate-flight-calculator-documentation_EN.pdf
 
 ## Prize Presentation
