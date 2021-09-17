@@ -36,8 +36,8 @@ psr:
 unsw_ds:
   - image_path: /assets/images/unsw_ds/unsw_ds_photo.jpg
     alt: "UNSW Data Science Competition"
-    title: "Aviation Data analysis"
-    excerpt: "UNSW Aviation Data Science Competition"
+    title: "UNSW Data Science Competition"
+    excerpt: "Tourism Australia and UNSW School of Aviation, in partnership with Cirium, is organising a Data Science Competition on "Sustainable International Air Routes to Australia""
     url: "/unsw_ds/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
