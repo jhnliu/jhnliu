@@ -18,7 +18,7 @@ In this project, we adapt from DeepApp and propose several novel enhancements to
 
 ## Credits
 Supervisors:
-- <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/basem-suleiman.html">Muhammad Johan Alibasa </a>
+- <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/basem-suleiman.html">Dr. Basem Suleiman </a>
 - <a href="https://github.com/mjohan">Muhammad Johan Alibasa </a>
 
 Fellow group mates
