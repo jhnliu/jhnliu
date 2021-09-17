@@ -5,6 +5,7 @@ permalink: /project/
 # taxonomy: tech
 entries_layout: grid
 author_profile: true
+read_time: false
 
 foodpicker:
   - image_path: /assets/images/freshfood.jpg
@@ -37,7 +38,7 @@ unsw_ds:
   - image_path: /assets/images/unsw_ds/unsw_ds_photo.jpg
     alt: "UNSW Data Science Competition"
     title: "UNSW Data Science Competition"
-    excerpt: "Topic: "Sustainable International Air Routes to Australia""
+    excerpt: "Topic: Sustainable International Air Routes to Australia"
     url: "/unsw_ds/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
